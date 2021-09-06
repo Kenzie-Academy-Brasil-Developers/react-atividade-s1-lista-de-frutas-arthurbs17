@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h3>Preço total: {totalPrice}</h3>
+        <h4>Preço total: {totalPrice}</h4>
         <FruitList list={fruits} />
         <button onClick={filterRedFruits}>Mostrar frutas vermelhas</button>
       </header>

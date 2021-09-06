@@ -14,3 +14,20 @@ body {
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+ul {
+  text-align: center;
+  margin-right: 30px;
+}
+
+li {
+  font-variant: small-caps;
+  list-style: none;
+}
+
+button {
+  padding: 10px;
+  background-color: #8b0000;
+  border: 0px;
+  color: #fff;
+}
